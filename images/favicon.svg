@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<style> path {fill: #151515;} @media (prefers-color-scheme: dark) {path {fill: white;}} </style>
+<g transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+	<path d="M 45 0 C 20.147 0 0 20.147 0 45 c 0 24.853 20.147 45 45 45 s 45 -20.147 45 -45 C 90 20.147 69.853 0 45 0 z M 57.813 64.5 L 45 39.91 L 32.187 64.5 H 18.484 l 23.449 -45 h 6.133 l 23.449 45 H 57.813 z"/>
+</g>
+</svg>
